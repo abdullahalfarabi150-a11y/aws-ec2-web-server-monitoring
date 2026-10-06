@@ -1,4 +1,4 @@
-# Deploy and Monitor a Custom Apache Web Server on AWS EC2
+# AWS EC2 Web Server with Monitoring & Alerts​
 
 ##  Project Overview:
 This project demonstrates the deployment, automation, monitoring, and alerting of a custom Apache web server on Amazon EC2.
